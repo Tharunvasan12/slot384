@@ -43,7 +43,7 @@ Execute the program using runserver command.
     </style>
 </head>
 <body>
-    <img src="logo.png"width="1000px"height="150px">
+    <img src="logo.png" width="1000" height="150">
     <h1>Weekly Timetable</h1>
     <h1>Tharunish vasan.T(24001333)</h1>
     <table>
@@ -104,44 +104,6 @@ Execute the program using runserver command.
             <td>Free period</td>
         </tr>
     </table>
-</body>
-</html>
-
-
-<html>
-<head>
-    <title>Course Codes and Subjects</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color:white;
-            color:black;
-        }
-        h1 {
-            text-align: center;
-            color: blue;
-        }
-        table {
-            border-collapse: collapse;
-            margin: 20px auto;
-            width: 70%;
-        }
-        th, td {
-            border: 1px solid:white;
-            text-align: left;
-            padding: 10px;
-        }
-        th {
-            background-color:blue;
-            color: white;
-        }
-        td {
-            background-color:blue;
-        }
-    </style>
-</head>
-<body>
-    <h1>Course Codes and Subjects</h1>
     <table>
         <tr>
             <th>Course Code</th>
@@ -178,7 +140,6 @@ Execute the program using runserver command.
 
 ```
 ## OUTPUT
-![alt text](<Screenshot (4).png>)
-![alt text](<Screenshot (5).png>)
+![alt text](<Screenshot 2024-12-10 092816.png>)
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
